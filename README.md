@@ -125,8 +125,10 @@ Start server
 
 
 
-## Author
+## Authors
   > [Saishwar Anand](https://github.com/saianand32)
+  > [Prem Raj](https://github.com/rajprem4214)
+  > [Utsav Sinha](https://github.com/saianand32)
  
 ##### Made with perseverance and love by 
 ####  *Team CholeBhature*❤️
