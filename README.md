@@ -119,9 +119,9 @@ Start server
 
 #### Local Url for Server:
 
-- Frontend is running on http://localhost:3000 
-- NodeBackend is running on http://localhost:8000 
-- FlaskBackend is running on http://localhost:5000 
+- Frontend : http://localhost:3000 
+- NodeBackend : http://localhost:8000 
+- FlaskBackend : http://localhost:5000 
 
 
 
